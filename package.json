@@ -17,13 +17,13 @@
   },
   "homepage": "https://github.com/di3goleite/life#readme",
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^3.0.0",
     "axios": "^0.17.1",
     "blessed": "^0.1.81",
-    "blessed-contrib": "^4.8.5",
+    "blessed-contrib": "^4.9.0",
     "change-case": "^3.0.1",
     "dotenv": "^4.0.0",
     "oauth": "^0.9.15",
-    "trending-github": "^1.0.2"
+    "trending-github": "^1.1.0"
   }
 }
